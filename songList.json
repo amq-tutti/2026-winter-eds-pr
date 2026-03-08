@@ -1,72 +1,534 @@
 [
     {
         "id": 1,
-        "anime": "0-saiji Start Dash Monogatari Season 2 - Ending 1",
-        "name": "\"Beyond the Trajectory\" by Chata",
-        "video": "https://eudist.animemusicquiz.com/5u2mhk.webm",
+        "anime": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party o Tsuihou sareta node, Outo de Kimama ni Kurashitai - Ending 1",
+        "name": "\"I need\" by Yuki Tanaka",
+        "video": "https://eudist.animemusicquiz.com/pi2ktv5ktuokhkgl.webm",
         "mp3": null
     },
     {
         "id": 2,
-        "anime": "1-punkan dake Furete mo Ii yo... Share House no Himitsu Rule. - Ending 1",
-        "name": "\"Session Sadame Night\" by Dai Takanashi",
-        "video": "https://eudist.animemusicquiz.com/f23gq2.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ne5vos.mp3"
+        "anime": "【Oshi no Ko】Season 3 - Ending 1",
+        "name": "\"Serenade\" by natori",
+        "video": "https://eudist.animemusicquiz.com/o04u0zvlfkbqu4ib.webm",
+        "mp3": null
     },
     {
         "id": 3,
-        "anime": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. - Ending 1",
-        "name": "\"Treasure Chest\" by Yuki Tanaka",
-        "video": "https://eudist.animemusicquiz.com/agsvoz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/i3vp9q.mp3"
+        "anime": "29-sai Dokushin Chuuken Boukensha no Nichijou - Ending 1",
+        "name": "\"Kimi no Tonari wa Kuuki ga Oishii\" by HoneyWorks feat.Kotoha",
+        "video": "https://eudist.animemusicquiz.com/p8exqf8zxfeooji6.webm",
+        "mp3": null
     },
     {
         "id": 4,
-        "anime": "Akuyaku Reijou Tensei Ojisan - Ending 1",
-        "name": "\"Matsuken Samba II\" by Kazuhiko Inoue, M・A・O",
-        "video": "https://eudist.animemusicquiz.com/e8q47f.webm",
-        "mp3": "https://eudist.animemusicquiz.com/dje0hr.mp3"
+        "anime": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru - Ending 1",
+        "name": "\"Mahou no Oto\" by Ayahi Takagaki feat. Yu Shirota",
+        "video": "https://eudist.animemusicquiz.com/b1zlw70so5v6yyq6.webm",
+        "mp3": null
     },
     {
         "id": 5,
-        "anime": "Amagami-san Chi no Enmusubi - Ending 2",
-        "name": "\"Kamisama no Iu Toori!\" by ≠ME",
-        "video": "https://eudist.animemusicquiz.com/p4etz1.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wz8z3p.mp3"
+        "anime": "Android wa Keiken Ninzuu ni Hairimasu ka?? - Ending 1",
+        "name": "\"Android de Shinjidai\" by Kurikoma Komaru (Aogiri Koukou)",
+        "video": "https://eudist.animemusicquiz.com/da32o9401loxl2bk.webm",
+        "mp3": null
     },
     {
         "id": 6,
-        "anime": "Ameku Takao no Suiri Karte - Ending 1",
-        "name": "\"will be fine\" by Gospellers feat. Anly",
-        "video": "https://eudist.animemusicquiz.com/0spf2m.webm",
-        "mp3": "https://eudist.animemusicquiz.com/iagxs7.mp3"
+        "anime": "Ansatsu Kyoushitsu 2nd Season (Rebroadcast) - Ending 2",
+        "name": "\"Spica\" by Kaerinokai",
+        "video": "https://eudist.animemusicquiz.com/rol5tzbxe53r08ao.webm",
+        "mp3": null
     },
     {
         "id": 7,
-        "anime": "Ao no Exorcist: Yosuga-hen - Ending 1",
-        "name": "\"Overlap\" by Shiyui",
-        "video": "https://eudist.animemusicquiz.com/3z1d8i.webm",
-        "mp3": "https://eudist.animemusicquiz.com/162vdv.mp3"
+        "anime": "Ao no Miburo: Serizawa Ansatsu-hen - Ending 1",
+        "name": "\"Houmatsu\" by Soushi Sakiyama",
+        "video": "https://eudist.animemusicquiz.com/y30pvev1iok4knkj.webm",
+        "mp3": null
     },
     {
         "id": 8,
-        "anime": "Ao no Hako - Ending 2",
-        "name": "\"Contrast\" by TOMOO",
-        "video": "https://eudist.animemusicquiz.com/qmcqk3.webm",
-        "mp3": "https://eudist.animemusicquiz.com/l2sgqo.mp3"
+        "anime": "Arisugawa Ren tte Honto wa Onna nanda yo ne. - Ending 1",
+        "name": "\"Boku to no Himegoto\" by sammy",
+        "video": "https://eudist.animemusicquiz.com/wt9u5f76p71tymz4.webm",
+        "mp3": null
     },
     {
         "id": 9,
-        "anime": "Ao no Miburo - Ending 2",
-        "name": "\"Fragment\" by osage",
-        "video": "https://eudist.animemusicquiz.com/8b8iva.webm",
-        "mp3": "https://eudist.animemusicquiz.com/0yt4lm.mp3"
+        "anime": "Arne no Jikenbo - Ending 1",
+        "name": "\"Ningyou no Machi\" by Watashi Kobayashi",
+        "video": "https://eudist.animemusicquiz.com/oyly5kzlxfm1srur.webm",
+        "mp3": "https://eudist.animemusicquiz.com/debrbm.mp3"
     },
     {
         "id": 10,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Ending 1",
-        "name": "\"Aicraft\" by Kiminone",
-        "video": "https://eudist.animemusicquiz.com/ohlrpc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/74jbjn.mp3"
+        "anime": "Baki-dou - Ending 1",
+        "name": "\"Mountain Top\" by Novel Core",
+        "video": "https://eudist.animemusicquiz.com/brbp3t3icy9ogk16.webm",
+        "mp3": null
+    },
+    {
+        "id": 11,
+        "anime": "Beastars Final Season Part 2 - Ending 1",
+        "name": "\"Tiny Light\" by SEVENTEEN",
+        "video": "https://eudist.animemusicquiz.com/nmo1lstfjxqec7x0.webm",
+        "mp3": null
+    },
+    {
+        "id": 12,
+        "anime": "Cardfight!! Vanguard: Divinez Genma Seisen-hen - Ending 1",
+        "name": "\"Giragira\" by RealRomantic",
+        "video": "https://eudist.animemusicquiz.com/7iky4k2fz7h0ap5i.webm",
+        "mp3": null
+    },
+    {
+        "id": 13,
+        "anime": "Champignon no Majo - Ending 1",
+        "name": "\"Kimi wa\" by Ms.OOJA",
+        "video": "https://eudist.animemusicquiz.com/7jcfit27orgqoekl.webm",
+        "mp3": "https://eudist.animemusicquiz.com/5lhbq8.mp3"
+    },
+    {
+        "id": 14,
+        "anime": "Dark Moon: Tsuki no Saidan - Ending 1",
+        "name": "\"Fatal Trouble\" by ENHYPEN",
+        "video": "https://eudist.animemusicquiz.com/o6f83ookc4hyxffv.webm",
+        "mp3": null
+    },
+    {
+        "id": 15,
+        "anime": "Dark Moon: Tsuki no Saidan - Ending 2",
+        "name": "\"CRIMINAL LOVE\" by ENHYPEN",
+        "video": "https://eudist.animemusicquiz.com/9zx54breu0otrkp4.webm",
+        "mp3": "https://eudist.animemusicquiz.com/3bpabl.mp3"
+    },
+    {
+        "id": 16,
+        "anime": "Darwin Jihen - Ending 1",
+        "name": "\"Turn It Up\" by a-ko",
+        "video": "https://eudist.animemusicquiz.com/26u185iffda882c5.webm",
+        "mp3": "https://eudist.animemusicquiz.com/r5goqb.mp3"
+    },
+    {
+        "id": 17,
+        "anime": "Dead Account - Ending 1",
+        "name": "\"Raise wa Douse\" by Miyu Kaneko",
+        "video": "https://eudist.animemusicquiz.com/eru8y97p2c6i96cr.webm",
+        "mp3": "https://eudist.animemusicquiz.com/4wq81a.mp3"
+    },
+    {
+        "id": 18,
+        "anime": "Digimon Beatbreak - Ending 2",
+        "name": "\"BRAVE GROOVE\" by iLiFE!",
+        "video": "https://eudist.animemusicquiz.com/b5d2tpulbi9wmt3t.webm",
+        "mp3": "https://eudist.animemusicquiz.com/e0u6yd.mp3"
+    },
+    {
+        "id": 19,
+        "anime": "Douse, Koishite Shimaunda. Season 2 - Ending 1",
+        "name": "\"Hatsukoi\" by berry meet",
+        "video": "https://eudist.animemusicquiz.com/l7xxx8h9nxc517t7.webm",
+        "mp3": null
+    },
+    {
+        "id": 20,
+        "anime": "Duel Masters Lost: Boukyaku no Taiyou - Ending 1",
+        "name": "\"Sakujitsu\" by Tsukuyomi feat. Yoshino",
+        "video": "https://eudist.animemusicquiz.com/67tosk34lsv9x9lg.webm",
+        "mp3": null
+    },
+    {
+        "id": 21,
+        "anime": "Enen no Shouboutai: San no Shou Part 2 - Ending 1",
+        "name": "\"Speak of the Devil\" by Survive Said The Prophet",
+        "video": "https://eudist.animemusicquiz.com/6ksuey3skhbj47w9.webm",
+        "mp3": "https://eudist.animemusicquiz.com/2jqioy.mp3"
+    },
+    {
+        "id": 22,
+        "anime": "Eris no Seihai - Ending 1",
+        "name": "\"Camellia\" by Yukari Tamura",
+        "video": "https://eudist.animemusicquiz.com/1hzop93ktuf0pq7m.webm",
+        "mp3": "https://eudist.animemusicquiz.com/7zzbl7.mp3"
+    },
+    {
+        "id": 23,
+        "anime": "Fate/strange Fake - Ending 1",
+        "name": "\"Senzaiteki na Ai\" by 13.3g",
+        "video": "https://eudist.animemusicquiz.com/4io5235vmug9lyof.webm",
+        "mp3": "https://eudist.animemusicquiz.com/ybgp59.mp3"
+    },
+    {
+        "id": 24,
+        "anime": "Ganglion - Ending 2",
+        "name": "\"Tsumuji\" by EXILE TAKAHIRO",
+        "video": "https://eudist.animemusicquiz.com/xitnqrz8fmbkh7hn.webm",
+        "mp3": null
+    },
+    {
+        "id": 25,
+        "anime": "Gelpiyo - Ending 1",
+        "name": "\"delulu\" by Ai Tomioka",
+        "video": "https://eudist.animemusicquiz.com/rrgoh8g6mcmviz4s.webm",
+        "mp3": null
+    },
+    {
+        "id": 26,
+        "anime": "Golden Kamuy: Saishuushou - Ending 1",
+        "name": "\"The Ballad\" by Ken Yokoyama",
+        "video": "https://eudist.animemusicquiz.com/2aek8o6taxcixx38.webm",
+        "mp3": null
+    },
+    {
+        "id": 27,
+        "anime": "Goumon Baito-kun no Nichijou - Ending 1",
+        "name": "\"Ashita Tenki ni Naare\" by Takuma Terashima",
+        "video": "https://eudist.animemusicquiz.com/vipeio3gs6s1wkft.webm",
+        "mp3": null
+    },
+    {
+        "id": 28,
+        "anime": "Hanazakari no Kimi-tachi e - Ending 1",
+        "name": "\"BABY\" by YOASOBI",
+        "video": "https://eudist.animemusicquiz.com/dr30zemmyexo58nq.webm",
+        "mp3": "https://eudist.animemusicquiz.com/3xibdr.mp3"
+    },
+    {
+        "id": 29,
+        "anime": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou Suru - Ending 1",
+        "name": "\"Sanctuary\" by KAYA",
+        "video": "https://eudist.animemusicquiz.com/bd3txs7ai23b5ixq.webm",
+        "mp3": null
+    },
+    {
+        "id": 30,
+        "anime": "High School! Kimengumi (2026) - Ending 1",
+        "name": "\"Suteki!!\" by Rikon Densetsu",
+        "video": "https://eudist.animemusicquiz.com/v0lxy7ann441y8b1.webm",
+        "mp3": null
+    },
+    {
+        "id": 31,
+        "anime": "Hikuidori: Ushuu Boro Tobi-gumi - Ending 1",
+        "name": "\"Kagerou\" by Yo Oizumi",
+        "video": "https://eudist.animemusicquiz.com/qw38tayx4wt2c9hz.webm",
+        "mp3": "https://eudist.animemusicquiz.com/c8c19p.mp3"
+    },
+    {
+        "id": 32,
+        "anime": "Hime-sama \"Goumon\" no Jikan desu 2nd Season - Ending 1",
+        "name": "\"Ohime-sama ni wa Narenai\" by 'Yuika'",
+        "video": "https://eudist.animemusicquiz.com/gesw9aeaxk3fh1oz.webm",
+        "mp3": "https://eudist.animemusicquiz.com/zy2ry0.mp3"
+    },
+    {
+        "id": 33,
+        "anime": "Hokuto no Ken: Kenougun Zako-tachi no Banka - Ending 1",
+        "name": "\"Elegy of the Enemies\" by The Canbellz",
+        "video": "https://eudist.animemusicquiz.com/z0on2spmyvrxlux2.webm",
+        "mp3": null
+    },
+    {
+        "id": 34,
+        "anime": "Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu - Ending 1",
+        "name": "\"Totte Oki Agechau yo\" by Amudol",
+        "video": "https://eudist.animemusicquiz.com/theezytv7788gcc3.webm",
+        "mp3": null
+    },
+    {
+        "id": 35,
+        "anime": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani - Ending 1",
+        "name": "\"Koi wa Prism\" by Yuki Akashi & Yui Otokura",
+        "video": "https://eudist.animemusicquiz.com/8jnkz0815ntek8jp.webm",
+        "mp3": null
+    },
+    {
+        "id": 36,
+        "anime": "Ikoku Nikki - Ending 1",
+        "name": "\"Kotozute\" by Bialystocks",
+        "video": "https://eudist.animemusicquiz.com/oln80yl4cnl93ehe.webm",
+        "mp3": "https://eudist.animemusicquiz.com/stsf8g.mp3"
+    },
+    {
+        "id": 37,
+        "anime": "Isekai no Sata wa Shachiku Shidai - Ending 1",
+        "name": "\"Back to Back\" by MORISAKI WIN",
+        "video": "https://eudist.animemusicquiz.com/u1cqn1gx9g8itc7s.webm",
+        "mp3": "https://eudist.animemusicquiz.com/86hx0x.mp3"
+    },
+    {
+        "id": 38,
+        "anime": "Jigoku Sensei Nube (2025) 2nd Season - Ending 1",
+        "name": "\"MAGICAL\" by Ayumu Imazu",
+        "video": "https://eudist.animemusicquiz.com/t6rjpfkrn0sixopk.webm",
+        "mp3": null
+    },
+    {
+        "id": 39,
+        "anime": "Jigokuraku 2nd Season - Ending 1",
+        "name": "\"PERSONAL\" by Ziyoou-vachi",
+        "video": "https://eudist.animemusicquiz.com/0qfv0s7rggc0xec3.webm",
+        "mp3": "https://eudist.animemusicquiz.com/8weeep.mp3"
+    },
+    {
+        "id": 40,
+        "anime": "Jingai Kyoushitsu no Ningengirai Kyoushi - Ending 1",
+        "name": "\"Ningen Come True!\" by Sora Amamiya, Saori Oonishi, Maria Naganawa, Rui Tanabe",
+        "video": "https://eudist.animemusicquiz.com/nxebe3s8u2qzx3vp.webm",
+        "mp3": null
+    },
+    {
+        "id": 41,
+        "anime": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen - Ending 1",
+        "name": "\"Yoake no Uta\" by jo0ji",
+        "video": "https://eudist.animemusicquiz.com/y2t237jqjpc16r3o.webm",
+        "mp3": "https://eudist.animemusicquiz.com/5d704r.mp3"
+    },
+    {
+        "id": 42,
+        "anime": "Kaya-chan wa Kowakunai - Ending 1",
+        "name": "\"Playmour\" by SAK & TAO feat. Azusa Tachibana",
+        "video": "https://eudist.animemusicquiz.com/hxndthb3js8jays3.webm",
+        "mp3": "https://eudist.animemusicquiz.com/kulzab.mp3"
+    },
+    {
+        "id": 43,
+        "anime": "Kirei ni Shite Moraemasu ka. - Ending 1",
+        "name": "\"Wakaba no Koro\" by Natsumi Kiyoura",
+        "video": "https://eudist.animemusicquiz.com/rmi63ztkjgdqrfjb.webm",
+        "mp3": null
+    },
+    {
+        "id": 44,
+        "anime": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara o Eru - Ending 1",
+        "name": "\"You'll Be In My Heart ~Soba ni~\" by Azusa Tachibana",
+        "video": "https://eudist.animemusicquiz.com/snj48czbz1489a2a.webm",
+        "mp3": "https://eudist.animemusicquiz.com/i9ahpe.mp3"
+    },
+    {
+        "id": 45,
+        "anime": "Majutsushi Kunon wa Mieteiru - Ending 1",
+        "name": "\"Story\" by KOHTA YAMAMOTO feat. katagiri",
+        "video": "https://eudist.animemusicquiz.com/1pema3t79dfph3gq.webm",
+        "mp3": "https://eudist.animemusicquiz.com/qlupha.mp3"
+    },
+    {
+        "id": 46,
+        "anime": "Maou no Musume wa Yasashi Sugiru!! - Ending 1",
+        "name": "\"Ikko Niko Niko\" by Ayaka Ohashi, Misaki Kuno, Akio Otsuka",
+        "video": "https://eudist.animemusicquiz.com/vwc6ty6k1fkzul3k.webm",
+        "mp3": null
+    },
+    {
+        "id": 47,
+        "anime": "Mato Seihei no Slave 2 - Ending 1",
+        "name": "\"Cipher Cipher\" by Kana Hanazawa",
+        "video": "https://eudist.animemusicquiz.com/pr8ikecig21ji5va.webm",
+        "mp3": "https://eudist.animemusicquiz.com/u91wrp.mp3"
+    },
+    {
+        "id": 48,
+        "anime": "Mato Seihei no Slave 2 - Ending 2",
+        "name": "\"LOVE LOVE Beam\" by Maaya Uchida",
+        "video": "https://eudist.animemusicquiz.com/c94llg54fgx3k0bp.webm",
+        "mp3": null
+    },
+    {
+        "id": 49,
+        "anime": "Mayonaka Heart Tune - Ending 1",
+        "name": "\"Koe no Kiseki\" by Soala",
+        "video": "https://eudist.animemusicquiz.com/g0eo98j6zi7cvkg9.webm",
+        "mp3": "https://eudist.animemusicquiz.com/eccpgr.mp3"
+    },
+    {
+        "id": 50,
+        "anime": "Medalist 2nd Season - Ending 1",
+        "name": "\"Rookies\" by Conton Candy",
+        "video": "https://eudist.animemusicquiz.com/m29nfskisio5tq3q.webm",
+        "mp3": null
+    },
+    {
+        "id": 51,
+        "anime": "Meitantei Conan - Ending 74",
+        "name": "\"TOWA ~Towa ni Kaze ni Noru~\" by Mai Kuraki",
+        "video": "https://eudist.animemusicquiz.com/ta13gpe8ghnkln4o.webm",
+        "mp3": "https://eudist.animemusicquiz.com/9qrnns.mp3"
+    },
+    {
+        "id": 52,
+        "anime": "Meitantei Precure! - Ending 1",
+        "name": "\"Naze? Nazo!? ANSWER\" by Akane Kumada & Yuka Masui",
+        "video": "https://eudist.animemusicquiz.com/havboiqa2v48ktz0.webm",
+        "mp3": null
+    },
+    {
+        "id": 53,
+        "anime": "MF Ghost 3rd Season - Ending 1",
+        "name": "\"Yokan no Tochuu Prod. ☆Taku Takahashi (m-flo)\" by Himika Akaneya",
+        "video": "https://eudist.animemusicquiz.com/bqkns1pc2q28n6sr.webm",
+        "mp3": "https://eudist.animemusicquiz.com/d408e8.mp3"
+    },
+    {
+        "id": 54,
+        "anime": "Odayaka Kizoku no Kyuuka no Susume. - Ending 1",
+        "name": "\"Ussura\" by Hina Suguta",
+        "video": "https://eudist.animemusicquiz.com/1xojkcsn5sialh6v.webm",
+        "mp3": "https://eudist.animemusicquiz.com/98ev0j.mp3"
+    },
+    {
+        "id": 55,
+        "anime": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisan-kei Majutsu de Na mo Naki Mura o Saikyou no Jousai Toshi ni - Ending 1",
+        "name": "\"Make it\" by Nonoka Obuchi",
+        "video": "https://eudist.animemusicquiz.com/cbk0f4jbbqtzbhbp.webm",
+        "mp3": null
+    },
+    {
+        "id": 56,
+        "anime": "Omae wa Mada Gunma o Shiranai: Reiwa-ban - Ending 1",
+        "name": "\"Jomo Karuta ~Reiwa-ban\" by Masayuki Deguchi",
+        "video": "https://eudist.animemusicquiz.com/g49sza2uax1fnqti.webm",
+        "mp3": null
+    },
+    {
+        "id": 57,
+        "anime": "Osananajimi to wa Love Comedy ni Naranai - Ending 1",
+        "name": "\"Amanojaku\" by Hikari Codama",
+        "video": "https://eudist.animemusicquiz.com/atkaqqyqovob4xg5.webm",
+        "mp3": null
+    },
+    {
+        "id": 58,
+        "anime": "Prism Rondo - Ending 1",
+        "name": "\"star flower\" by Chilli Beans.",
+        "video": "https://eudist.animemusicquiz.com/pcj9wmfikpd9zsv4.webm",
+        "mp3": null
+    },
+    {
+        "id": 59,
+        "anime": "Saioshi no Gikei o Mederu Tame, Nagaiki Shimasu! - Ending 1",
+        "name": "\"Endless You\" by Shouta Aoi",
+        "video": "https://eudist.animemusicquiz.com/vo8i7uwcrpdpxnv8.webm",
+        "mp3": null
+    },
+    {
+        "id": 60,
+        "anime": "Seihantai na Kimi to Boku - Ending 1",
+        "name": "\"Pure\" by PAS TASTA feat. Eriko Hashimoto",
+        "video": "https://eudist.animemusicquiz.com/ftztucrs4m3zsxg9.webm",
+        "mp3": "https://eudist.animemusicquiz.com/hpl3kf.mp3"
+    },
+    {
+        "id": 61,
+        "anime": "Shibou Yuugi de Meshi o Kuu. - Ending 2",
+        "name": "\"Inori\" by Chiai Fujikawa",
+        "video": "https://eudist.animemusicquiz.com/oz5o0h9dna2evzlu.webm",
+        "mp3": "https://eudist.animemusicquiz.com/jprjiq.mp3"
+    },
+    {
+        "id": 62,
+        "anime": "SI-VIS: The Sound of Heroes - Ending 2",
+        "name": "\"Singing Over\" by SI-VIS",
+        "video": "https://eudist.animemusicquiz.com/rrqceh6l683xbh91.webm",
+        "mp3": null
+    },
+    {
+        "id": 63,
+        "anime": "Sousou no Frieren 2nd Season - Ending 1",
+        "name": "\"The Story of Us\" by milet",
+        "video": "https://eudist.animemusicquiz.com/ex4bj8u1kucyaiv4.webm",
+        "mp3": "https://eudist.animemusicquiz.com/ghhjmc.mp3"
+    },
+    {
+        "id": 64,
+        "anime": "Tamon-kun Ima Docchi!? - Ending 1",
+        "name": "\"Hana to Yume\" by F/ACE",
+        "video": "https://eudist.animemusicquiz.com/yc9rgmvzo5unywfp.webm",
+        "mp3": "https://eudist.animemusicquiz.com/k00eo5.mp3"
+    },
+    {
+        "id": 65,
+        "anime": "Tensei shitara Dragon no Tamago datta: Saikyou Igai Mezasa Nee - Ending 1",
+        "name": "\"Sky Clipper\" by TAO & SAK",
+        "video": "https://eudist.animemusicquiz.com/78mwfnq54bg6doqg.webm",
+        "mp3": "https://eudist.animemusicquiz.com/devev3.mp3"
+    },
+    {
+        "id": 66,
+        "anime": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari - Ending 1",
+        "name": "\"Hoshi Megane\" by Kaori Ishihara",
+        "video": "https://eudist.animemusicquiz.com/qsh5opma6rnv9yyt.webm",
+        "mp3": "https://eudist.animemusicquiz.com/08e8a3.mp3"
+    },
+    {
+        "id": 67,
+        "anime": "Trigun Stargaze - Ending 1",
+        "name": "\"Stardust\" by FOMARE",
+        "video": "https://eudist.animemusicquiz.com/9r7njfv2685zof2b.webm",
+        "mp3": "https://eudist.animemusicquiz.com/lnzrjr.mp3"
+    },
+    {
+        "id": 68,
+        "anime": "Uruwashi no Yoi no Tsuki - Ending 1",
+        "name": "\"Azalea no Kaze\" by UNISON SQUARE GARDEN",
+        "video": "https://eudist.animemusicquiz.com/ffba4b3yak3w2ghl.webm",
+        "mp3": null
+    },
+    {
+        "id": 69,
+        "anime": "Vigilante: Boku no Hero Academia Illegals 2nd Season - Ending 1",
+        "name": "\"Miss You\" by shytaupe",
+        "video": "https://eudist.animemusicquiz.com/wjxpzecaneu464th.webm",
+        "mp3": null
+    },
+    {
+        "id": 70,
+        "anime": "Yami Shibai 16 - Ending 1",
+        "name": "\"Masquerade Night\" by yosugala",
+        "video": "https://eudist.animemusicquiz.com/lkwz2yqea89bs6gj.webm",
+        "mp3": null
+    },
+    {
+        "id": 71,
+        "anime": "Yoroi Shinden Samurai Troopers - Ending 1",
+        "name": "\"POWER\" by ONE OR EIGHT",
+        "video": "https://eudist.animemusicquiz.com/bra6mwu1vukmq9jw.webm",
+        "mp3": null
+    },
+    {
+        "id": 72,
+        "anime": "Yuusha no Kuzu - Ending 1",
+        "name": "\"Mental Rental\" by Mulasaki Ima",
+        "video": "https://eudist.animemusicquiz.com/gr43t5j75z1n7b1b.webm",
+        "mp3": "https://eudist.animemusicquiz.com/t0ua59.mp3"
+    },
+    {
+        "id": 73,
+        "anime": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. - Ending 1",
+        "name": "\"Kimi Kouryaku Game\" by Hiyori Omiya",
+        "video": "https://eudist.animemusicquiz.com/sjdgl2jfqkmfhqwp.webm",
+        "mp3": null
+    },
+    {
+        "id": 74,
+        "anime": "Yuusha Party o Oidasareta Kiyoubinbou - Ending 1",
+        "name": "\"sukuu\" by Nowlu",
+        "video": "https://eudist.animemusicquiz.com/6sq1mblbv1hwnvu3.webm",
+        "mp3": "https://eudist.animemusicquiz.com/bbqkl1.mp3"
+    },
+    {
+        "id": 75,
+        "anime": "#Kanagawa ni Sunderu Elf - Ending 1",
+        "name": "\"Kana El Magic!\" by The Folie Phantom (feat. Masahiro Inoue)",
+        "video": "https://eudist.animemusicquiz.com/ttdzvkl3ivshgjpu.webm",
+        "mp3": null
+    },
+    {
+        "id": 76,
+        "anime": "Neko no Kura-chan: Ordinary Days - Ending 3",
+        "name": "\"Kawaii Ko no Shukumei\" by Junjou no Afilia",
+        "video": "https://eudist.animemusicquiz.com/9imc7ke9ye8scp3m.webm",
+        "mp3": null
     }
 ]
